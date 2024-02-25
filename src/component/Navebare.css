@@ -1,0 +1,51 @@
+.nav{
+    /* margin-top: 10px; */
+    margin-left: -100px;
+    background: orange;
+    position: sticky;
+
+}
+
+.bg-body-tertiary{
+    width: 100px;
+    /* background-color: aqua; */
+}
+.d-flex{
+    margin-left: 300px;
+}
+.me-2{
+    width: 400px;
+}
+
+.name{
+    font-size: 25px;
+    margin-left: 120px;
+}
+
+#eshop{
+    font-size: 30px;
+    margin-left: 10px;
+
+}
+
+#linecard{
+    font-size: 30px;
+    margin-left: 300px;
+    color:black;
+    margin-top: 10px ;
+}
+
+#basic-nav-dropdown{
+    position: absolute;
+    margin-left: 120px;
+    color: black;
+}
+h4{
+    margin-top: 8px;
+}
+
+#dropdown{
+    /* margin-left: 170px; */
+    width: 15px;
+    height: 15px;
+}

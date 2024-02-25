@@ -1,0 +1,27 @@
+.cards{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    text-align: center;
+    /* background-color: aqua; */
+}
+
+#carte{
+    width: 270px;
+    height: 310px; 
+    background-color: transparent;
+}
+
+#carte:hover{
+    cursor: pointer;
+    box-shadow: 0 5px 10px 0 #d3cfc9;
+}
+
+
+.img{
+    width: 200px;
+    height:170px;
+    margin-left: 35px;
+    background-image:none;
+
+}
