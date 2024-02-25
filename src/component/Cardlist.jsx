@@ -14,7 +14,7 @@ const Cardlist = () => {
           <Card.Text className='text'>
           {el.price}
           </Card.Text>
-          <Button variant="primary" className='btn'>Add to card </Button>
+          <Button variant="primary" className='btn'>Add To Card</Button>
           </Card.Body>
           </Card>
     ))}

@@ -32,7 +32,7 @@ const Navebare = () => {
               <NavDropdown.Item id = "dropdown" href="#action/3.2">Gaming Monitor</NavDropdown.Item>
             </NavDropdown>
             <MdOutlineShoppingCart  id ="linecard"/>
-            <h4> My Card </h4>
+            <h4>Card</h4>
           </Form>
         </Navbar.Collapse>
       </Container>
