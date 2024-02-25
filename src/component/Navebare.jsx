@@ -29,7 +29,7 @@ const Navebare = () => {
           <NavDropdown title="Category" id="basic-nav-dropdown">
               <NavDropdown.Item id = "dropdown" href="#action/3.1">Keyboard Gaming</NavDropdown.Item>
               <NavDropdown.Item id = "dropdown" href="#action/3.2">Gaming Mouse</NavDropdown.Item>
-              <NavDropdown.Item id = "dropdown" href="#action/3.2">Gaming Screen</NavDropdown.Item>
+              <NavDropdown.Item id = "dropdown" href="#action/3.2">Gaming Monitor</NavDropdown.Item>
             </NavDropdown>
             <MdOutlineShoppingCart  id ="linecard"/>
             <h4> My Card </h4>
